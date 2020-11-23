@@ -3,6 +3,10 @@
 I'm a software engineering consultant at Capgemini in Stavanger.<br>
 My GitHub is mostly filled with hobby projects and other fun stuff!
 
+### Top Languages (on public GitHub repos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfosli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Where to find me online
 
 [<img src="https://abs.twimg.com/favicons/favicon.ico" height="25" alt="twitter logo"/>](https://twitter.com/christianfosli) 
