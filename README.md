@@ -8,7 +8,11 @@ and FSharp/Functional Programming in general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfosli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<sup>The stats are generated automatically, based on public GitHub repos created by me</sup>
+<sup>
+  The stats are generated automatically,
+  based on public GitHub repositories created by me.
+  They do not indicate skills or experience.
+</sup>
 
 #### Where to find me online
 
