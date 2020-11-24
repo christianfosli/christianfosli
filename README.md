@@ -4,7 +4,7 @@ I'm a software engineering consultant at Capgemini in Stavanger.<br>
 My GitHub is mostly filled with hobby projects and other fun stuff!
 
 I love learning about and working with Docker, Kubernetes, Rust,
-and FSharp/Functional Programming in general.
+and FSharp/functional programming in general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfosli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
