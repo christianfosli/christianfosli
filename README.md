@@ -6,8 +6,6 @@ My GitHub is mostly filled with hobby projects and other fun stuff!
 I love learning about and working with docker, kubernetes, rust, dotnet,
 typescript, and functional programming.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianfosli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Where to find me online
 
 [<img src="https://abs.twimg.com/favicons/favicon.ico" height="25" alt="twitter logo"/>](https://twitter.com/christianfosli) 
