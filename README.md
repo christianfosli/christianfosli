@@ -1,10 +1,9 @@
 ### Hi, I'm Christian 👋
 
-I'm a software engineering consultant at Capgemini in Stavanger.<br>
-My GitHub is mostly filled with hobby projects and other fun stuff!
+I'm a software engineer at Capgemini in Stavanger.<br>
+My GitHub is mostly filled with hobby projects and similar things.
 
-I love learning about and working with docker, kubernetes, rust, dotnet,
-typescript, and functional programming.
+I love learning about and working with rust, dotnet, functional programming, containers (docker+kubernetes).
 
 #### Where to find me online
 
