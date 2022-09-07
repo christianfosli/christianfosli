@@ -5,7 +5,7 @@ My GitHub is mostly filled with hobby projects and similar things.
 
 I love learning about and working with rust, dotnet, functional programming, containers (docker+kubernetes).
 
-#### Where to find me online
+#### Connect with me online
 
 [<img src="https://matrix.org/images/matrix-logo.svg" height="25" alt="matrix logo" />](https://matrix.to/#/@christianfosli:matrix.org)
 [<img src="https://abs.twimg.com/favicons/favicon.ico" height="25" alt="twitter logo"/>](https://twitter.com/christianfosli) 
