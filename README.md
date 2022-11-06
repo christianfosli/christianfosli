@@ -3,8 +3,6 @@
 I'm a software engineer at Capgemini in Stavanger, Norway.<br>
 My GitHub is mostly filled with hobby projects and similar things.
 
-I love learning about and working with rust, dotnet, functional programming, containers (docker+kubernetes).
-
 #### Connect with me online
 
 [<img src="https://matrix.org/images/matrix-logo.svg" height="25" alt="matrix logo" />](https://matrix.to/#/@christianfosli:matrix.org)
